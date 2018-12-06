@@ -2,5 +2,5 @@
 
 Para acceder has click [AQUI](ejerciciodiego.ipynb)
 
-Libro en [nbviewer]()
+Libro en [nbviewer](http://nbviewer.jupyter.org/github/diealex22/demo/blob/master/Ejerciciodiego.ipynb)
 
